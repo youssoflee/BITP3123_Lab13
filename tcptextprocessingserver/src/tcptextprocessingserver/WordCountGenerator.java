@@ -4,7 +4,7 @@ import java.util.Date;
 /**
  * This class generates word count in a text
  * 
- * @author Ng Wei Hen
+ * @author Youssof Lee
  *
  */
 public class WordCountGenerator {
