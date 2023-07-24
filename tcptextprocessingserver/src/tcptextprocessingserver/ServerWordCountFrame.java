@@ -15,7 +15,7 @@ import javax.swing.JTextArea;
  * It display the status of the server and status for each request 
  * made to the server.
  * 
- * @author Ng Wei Hen
+ * @author Youssof Lee
  *
  */
 
