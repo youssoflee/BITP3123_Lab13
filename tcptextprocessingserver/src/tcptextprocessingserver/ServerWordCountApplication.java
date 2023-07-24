@@ -9,7 +9,7 @@ import java.net.Socket;
  * The server will handle request and process the word count.
  * The server will send the word count to every client
  * 
- * @author Ng Wei Hen
+ * @author Youssof Lee
  *
  */
 
