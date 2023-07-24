@@ -23,7 +23,7 @@ public class WordCountGenerator {
 	 */
 	public int getWordCount() {
 		
-		String input = "Hello I am Ng Wei Hen from BITS S1G1."; // The Input Words   
+		String input = "Hello I am Youssof Lee from BITS S2G1."; // The Input Words   
 		
 		 if (input == null || input.isEmpty()) {
 		      return 0;
